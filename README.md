@@ -1,4 +1,4 @@
-# Reactive Programing Demo Application
+# Design Patterns Samples
 
 ## How to run the application
 `gradle run`
